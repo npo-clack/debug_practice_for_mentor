@@ -1,0 +1,2 @@
+# debug_practice_for_mentor
+大学生メンターようにデバッグを説明するコード
